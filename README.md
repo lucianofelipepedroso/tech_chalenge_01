@@ -1,4 +1,5 @@
 ```python
+import requests
 url = "http://127.0.0.1:8000/producao/filtragem"
 params = {
     'categoria': 'VINHO DE MESA',
